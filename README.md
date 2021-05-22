@@ -1,2 +1,3 @@
-# Git-tutorial
-A tutorial about Git
+# Titanic/ Predict Survival
+
+A jupyter notebook
